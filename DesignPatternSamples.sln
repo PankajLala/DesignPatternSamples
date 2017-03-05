@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategySample", "StrategyS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateSample", "StateSample\StateSample.csproj", "{29B81D52-46D0-4E5C-A971-F80E27AF987A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonGenericSample", "SingletonLazySample\SingletonGenericSample.csproj", "{8EF8706A-C5DF-437A-9D3C-229C64FEB173}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonGenericSample", "SingletonGenericSample\SingletonGenericSample.csproj", "{8EF8706A-C5DF-437A-9D3C-229C64FEB173}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

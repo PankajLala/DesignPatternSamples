@@ -7,8 +7,8 @@
     <ProjectGuid>{8EF8706A-C5DF-437A-9D3C-229C64FEB173}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SingletonLazySample</RootNamespace>
-    <AssemblyName>SingletonLazySample</AssemblyName>
+    <RootNamespace>SingletonGenericSample</RootNamespace>
+    <AssemblyName>SingletonGenericSample</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
