@@ -13,6 +13,11 @@ namespace AdapterSample
     {
         static void Main(string[] args)
         {
+            /* Main method (client) was earlier using IEnumerator interface (thus its implementation). Now the new implementation
+             * is  provided by IIterator. We have following requirements
+             * a) Client wants to keep new Interface i.e IIterator
+             * b) Client still wants to use old legacy code implementation.
+             * */
             IIterator iterator = new EnumeratorIterator(new Enumerator());
 
             iterator.hasNext();
