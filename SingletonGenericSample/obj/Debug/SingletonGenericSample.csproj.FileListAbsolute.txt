@@ -1,0 +1,5 @@
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonLazySample\bin\Debug\SingletonLazySample.exe.config
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonLazySample\bin\Debug\SingletonLazySample.exe
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonLazySample\bin\Debug\SingletonLazySample.pdb
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonLazySample\obj\Debug\SingletonLazySample.exe
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonLazySample\obj\Debug\SingletonLazySample.pdb
