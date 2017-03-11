@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FactoryMethodSample\bin\Debug\FactoryMethodSample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FactoryMethodSample\bin\Debug\FactoryMethodSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FactoryMethodSample\bin\Debug\FactoryMethodSample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FactoryMethodSample\obj\Debug\FactoryMethodSample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FactoryMethodSample\obj\Debug\FactoryMethodSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FactoryMethodSample\obj\Debug\FactoryMethodSample.pdb

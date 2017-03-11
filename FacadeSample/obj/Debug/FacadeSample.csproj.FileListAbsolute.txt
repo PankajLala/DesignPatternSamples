@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FacadeSample\bin\Debug\FacadeSample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FacadeSample\bin\Debug\FacadeSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FacadeSample\bin\Debug\FacadeSample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FacadeSample\obj\Debug\FacadeSample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FacadeSample\obj\Debug\FacadeSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\FacadeSample\obj\Debug\FacadeSample.pdb

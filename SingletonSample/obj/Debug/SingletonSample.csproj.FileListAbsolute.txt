@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonSample\bin\Debug\SingletonSample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonSample\bin\Debug\SingletonSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonSample\bin\Debug\SingletonSample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonSample\obj\Debug\SingletonSample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonSample\obj\Debug\SingletonSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SingletonSample\obj\Debug\SingletonSample.pdb

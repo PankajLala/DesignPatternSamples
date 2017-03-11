@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\AdapterSample\bin\Debug\AdapterSample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\AdapterSample\bin\Debug\AdapterSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\AdapterSample\bin\Debug\AdapterSample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\AdapterSample\obj\Debug\AdapterSample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\AdapterSample\obj\Debug\AdapterSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\AdapterSample\obj\Debug\AdapterSample.pdb

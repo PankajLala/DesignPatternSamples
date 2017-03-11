@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StrategySample\bin\Debug\StrategySample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StrategySample\bin\Debug\StrategySample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StrategySample\bin\Debug\StrategySample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StrategySample\obj\Debug\StrategySample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StrategySample\obj\Debug\StrategySample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StrategySample\obj\Debug\StrategySample.pdb

@@ -1,5 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DesignPatternSamples\bin\Debug\DesignPatternSamples.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DesignPatternSamples\bin\Debug\DesignPatternSamples.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DesignPatternSamples\bin\Debug\DesignPatternSamples.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DesignPatternSamples\obj\Debug\DesignPatternSamples.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DesignPatternSamples\obj\Debug\DesignPatternSamples.pdb

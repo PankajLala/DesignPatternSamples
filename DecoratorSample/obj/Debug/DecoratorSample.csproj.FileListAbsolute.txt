@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DecoratorSample\bin\Debug\DecoratorSample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DecoratorSample\bin\Debug\DecoratorSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DecoratorSample\bin\Debug\DecoratorSample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DecoratorSample\obj\Debug\DecoratorSample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DecoratorSample\obj\Debug\DecoratorSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\DecoratorSample\obj\Debug\DecoratorSample.pdb

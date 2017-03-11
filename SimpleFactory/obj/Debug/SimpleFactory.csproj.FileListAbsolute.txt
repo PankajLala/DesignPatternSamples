@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SimpleFactory\bin\Debug\SimpleFactory.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SimpleFactory\bin\Debug\SimpleFactory.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SimpleFactory\bin\Debug\SimpleFactory.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SimpleFactory\obj\Debug\SimpleFactory.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SimpleFactory\obj\Debug\SimpleFactory.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\SimpleFactory\obj\Debug\SimpleFactory.pdb

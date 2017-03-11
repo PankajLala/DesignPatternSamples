@@ -1,6 +1,0 @@
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StateSample\bin\Debug\StateSample.exe.config
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StateSample\bin\Debug\StateSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StateSample\bin\Debug\StateSample.pdb
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StateSample\obj\Debug\StateSample.csprojResolveAssemblyReference.cache
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StateSample\obj\Debug\StateSample.exe
-C:\workarea\net\DesignPatternSamples\DesignPatternSamples\StateSample\obj\Debug\StateSample.pdb
