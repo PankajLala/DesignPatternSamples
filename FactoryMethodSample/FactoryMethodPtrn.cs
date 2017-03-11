@@ -14,9 +14,53 @@ namespace FactoryMethodSample
     {
         static void Main(string[] args)
         {
-            
+            IProduct product = new ProductFactoryA().CreateProduct();
+            product.DoWork();
+            Console.ReadLine();
         }
 
        
+    }
+
+    public interface IProduct
+    {
+        void DoWork();
+    }
+
+    public class ProductA : IProduct
+    {
+        public void DoWork()
+        {
+            Console.WriteLine("Work done by Product A");
+        }
+    }
+
+    public class ProductB : IProduct
+    {
+        public void DoWork()
+        {
+            Console.WriteLine("Work done by Product B");
+        }
+    }
+
+    public interface IProductFactory
+    {
+        IProduct CreateProduct();
+    }
+
+    public class ProductFactoryA : IProductFactory
+    {
+        public IProduct CreateProduct()
+        {
+            return new ProductA();
+        }
+    }
+
+    public class ProductFactoryB : IProductFactory
+    {
+        public IProduct CreateProduct()
+        {
+            return new ProductB();
+        }
     }
 }
