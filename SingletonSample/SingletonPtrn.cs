@@ -24,13 +24,21 @@ namespace SingletonSample
 
         private static Logger _logger;
 
+        private static Object _lock = new object();
+
         public static Logger GetLogger
         {
             get
             {
                 if (_logger == null)
                 {
-                    _logger = new Logger();
+                    lock (_lock)
+                    {
+                        if(_logger == null)
+                        {
+                            _logger = new Logger();
+                        }
+                    }
                 }
                 return _logger;
             }
