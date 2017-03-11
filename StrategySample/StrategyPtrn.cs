@@ -12,13 +12,25 @@ namespace StrategySample
     {
         static void Main(string[] args)
         {
+            //Context
             SortedList sortedList = new SortedList();
             sortedList.Add("item1");
             sortedList.Add("item2");
             sortedList.Add("item3");
 
+            //Create the intended algorithm 
             ISortStrategy sortAlgo = new QuickSort();
+
+            //Inject it in the context
             sortedList.SetSortStrategy(sortAlgo);
+
+            //Context to execute  the algorithm
+            sortedList.Sort();
+
+            //Change the algorithm without any change in context and client
+            sortedList.SetSortStrategy(new MergeSort());
+
+            //context to execute new algorithm
             sortedList.Sort();
 
             Console.ReadLine();
