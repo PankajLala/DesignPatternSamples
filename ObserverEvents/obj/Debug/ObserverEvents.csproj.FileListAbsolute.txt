@@ -1,0 +1,6 @@
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\ObserverEvents\bin\Debug\ObserverEvents.exe.config
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\ObserverEvents\bin\Debug\ObserverEvents.exe
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\ObserverEvents\bin\Debug\ObserverEvents.pdb
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\ObserverEvents\obj\Debug\ObserverEvents.csprojResolveAssemblyReference.cache
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\ObserverEvents\obj\Debug\ObserverEvents.exe
+C:\workarea\net\DesignPatternSamples\DesignPatternSamples\ObserverEvents\obj\Debug\ObserverEvents.pdb

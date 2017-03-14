@@ -25,6 +25,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFact
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericFactory", "GenericFactory\GenericFactory.csproj", "{8CAB4BDE-5108-492A-808D-C941042D8C0C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66B56F16-8D5F-4389-9741-3DCC29DD2D55}"
+	ProjectSection(SolutionItems) = preProject
+		Notes.txt = Notes.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverEvents", "ObserverEvents\ObserverEvents.csproj", "{4ED110F3-9D7D-46B3-9055-D5E4AB040931}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +82,10 @@ Global
 		{8CAB4BDE-5108-492A-808D-C941042D8C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CAB4BDE-5108-492A-808D-C941042D8C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CAB4BDE-5108-492A-808D-C941042D8C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ED110F3-9D7D-46B3-9055-D5E4AB040931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ED110F3-9D7D-46B3-9055-D5E4AB040931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ED110F3-9D7D-46B3-9055-D5E4AB040931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ED110F3-9D7D-46B3-9055-D5E4AB040931}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

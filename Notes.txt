@@ -1,0 +1,4 @@
+Use of DP in .net framework
+http://web.archive.org/web/20150527185017/https://msdn.microsoft.com/en-us/magazine/cc188707.aspx#S3
+
+Decorator: Use in streams
